@@ -261,50 +261,49 @@ Joint distribution optimal transportation for domain adaptation</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(135).pdf" style="text-decoration:none;">Conditional Coupled Generative Adversarial Networks for Zero-Shot Domain Adaptation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(136).pdf" style="text-decoration:none;">Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(137).pdf" style="text-decoration:none;">Disentangling Factors of Variation with Cycle-Consistent Variational Auto-Encoders</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(138).pdf" style="text-decoration:none;">Hamiltonian Variational Auto-Encoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(139).pdf" style="text-decoration:none;">Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(140).pdf" style="text-decoration:none;">Temporal Difference Variational Auto-Encoder</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(136).pdf" style="text-decoration:none;">Towards Universal Object Detection by Domain Attention</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(137).pdf" style="text-decoration:none;">Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(138).pdf" style="text-decoration:none;">Penalizing Top Performers: Conservative Loss for Semantic Segmentation Adaptation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(139).pdf" style="text-decoration:none;">d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(140).pdf" style="text-decoration:none;">Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(141).pdf" style="text-decoration:none;">Manifold Mixup: Better Representations by Interpolating Hidden States</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(142).pdf" style="text-decoration:none;">Autoregressive Quantile Networks for Generative Modeling</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(143).pdf" style="text-decoration:none;">The Information Autoencoding Family: A Lagrangian Perspective on Latent Variable Generative Models</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(144).pdf" style="text-decoration:none;">InfoCatVAE: Representation Learning with Categorical Variational Autoencoders</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(145).pdf" style="text-decoration:none;">Pioneer Networks: Progressively Growing Generative Autoencoder</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(146).pdf" style="text-decoration:none;">Glow: Generative Flow
-with Invertible 1&times;1 Convolutions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(141).pdf" style="text-decoration:none;">Multimodal Unsupervised
+Image-to-Image Translation</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(142).pdf" style="text-decoration:none;">Deep Domain Generalization via Conditional Invariant Adversarial Networks</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(143).pdf" style="text-decoration:none;">FDA: Fourier Domain Adaptation for Semantic Segmentation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(144).pdf" style="text-decoration:none;">Phase Consistent Ecological Domain Adaptation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(145).pdf" style="text-decoration:none;">Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(146).pdf" style="text-decoration:none;">NAM: Non-Adversarial Unsupervised Domain Mapping</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(147).pdf" style="text-decoration:none;">Handling Incomplete Heterogeneous Data using VAEs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(147).pdf" style="text-decoration:none;">Universal Domain Adaptation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(148).pdf" style="text-decoration:none;">Representation Learning with
-Contrastive Predictive Coding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(148).pdf" style="text-decoration:none;">Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(149).pdf" style="text-decoration:none;">TherML: Thermodynamics of Machine Learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(149).pdf" style="text-decoration:none;">Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization without Accessing Target Domain Data</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(150).pdf" style="text-decoration:none;">Explorations in Homeomorphic Variational Auto-Encoding</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(150).pdf" style="text-decoration:none;">DeceptionNet: Network-Driven Domain Randomization</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(151).pdf" style="text-decoration:none;">Avoiding Latent Variable Collapse with Generative Skip Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(151).pdf" style="text-decoration:none;">GA-DAN: Geometry-Aware Domain Adaptation Network for Scene Text Detection and Recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(152).pdf" style="text-decoration:none;">IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(153).pdf" style="text-decoration:none;">Iterative Amortized Inference</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(154).pdf" style="text-decoration:none;">Variational Memory Encoder-Decoder</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(152).pdf" style="text-decoration:none;">Aligning Infinite-Dimensional Covariance Matrices in Reproducing Kernel Hilbert Spaces for Domain Adaptation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(153).pdf" style="text-decoration:none;">Collaborative and Adversarial Network for Unsupervised domain adaptation</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(154).pdf" style="text-decoration:none;">Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(155).pdf" style="text-decoration:none;">Diverse Image-to-Image Translation via Disentangled Representations</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(155).pdf" style="text-decoration:none;">Domain-Symmetric Networks for Adversarial Domain Adaptation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(156).pdf" style="text-decoration:none;">Unbiased Implicit Variational Inference</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(157).pdf" style="text-decoration:none;">Linked Causal Variational Autoencoder for Inferring Paired Spillover Effects</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(158).pdf" style="text-decoration:none;">ACVAE-VC: Non-parallel many-to-many voice conversion with auxiliary classifier variational autoencoder</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(156).pdf" style="text-decoration:none;">Fully Convolutional Adaptation Networks for Semantic Segmentation</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(157).pdf" style="text-decoration:none;">Bridging Theory and Algorithm for Domain Adaptation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(158).pdf" style="text-decoration:none;">Partial Adversarial Domain Adaptation</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(159).pdf" style="text-decoration:none;">Learning deep representations by mutual information estimation and maximization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(159).pdf" style="text-decoration:none;">Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(160).pdf" style="text-decoration:none;">Interpretable Intuitive Physics Model</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(160).pdf" style="text-decoration:none;">Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(161).pdf" style="text-decoration:none;">Spherical Latent Spaces for Stable Variational Autoencoders</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(161).pdf" style="text-decoration:none;">Adapting Object Detectors via Selective Cross-Domain Alignment</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(162).pdf" style="text-decoration:none;">Taming VAEs</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(163).pdf" style="text-decoration:none;">The Dreaming Variational Autoencoder for Reinforcement Learning Environments</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(162).pdf" style="text-decoration:none;">Confidence Regularized Self-Training</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Domain-Adaptation-Papers/blob/master/doa(163).pdf" style="text-decoration:none;">DCAN: Dual Channel-wise Alignment Networks for Unsupervised Scene Adaptation</a></li> 
 
    </ul>
